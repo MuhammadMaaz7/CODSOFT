@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/maaza/OneDrive/Documents/GitHub/CODSOFT",
-      "program": "c:/Users/maaza/OneDrive/Documents/GitHub/CODSOFT/build/Debug/outDebug",
+      "cwd": "c:/Users/maaza/OneDrive/Desktop/CODSOFT-1",
+      "program": "c:/Users/maaza/OneDrive/Desktop/CODSOFT-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
